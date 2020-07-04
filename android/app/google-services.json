@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068797983764",
+    "firebase_url": "https://solar-tracker-iot-69.firebaseio.com",
+    "project_id": "solar-tracker-iot-69",
+    "storage_bucket": "solar-tracker-iot-69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068797983764:android:b5e37489618e4dd504fb01",
+        "android_client_info": {
+          "package_name": "solar.tracker.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068797983764-aljda0t30d0gq5aa6gav8fj24d0nad0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDegchG0mU_VqBFgQFtPJUpUlL3g8T3OVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068797983764-aljda0t30d0gq5aa6gav8fj24d0nad0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
