@@ -4,6 +4,7 @@ import 'package:eva_icons_flutter/eva_icons_flutter.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:iot/pages/monitoring_page.dart';
+import 'package:iot/pages/monitoring_page_realtime.dart';
 import 'package:iot/utils/colors.dart';
 import 'package:iot/utils/text_styles.dart';
 import 'package:iot/utils/ui_helpers.dart';
@@ -100,7 +101,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                   CupertinoPageRoute(
                                     builder: (context) {
                                       if (index == 0) {
-                                        return MonitoringPage();
+                                        return MonitoringPageRealtime();
                                       } else if (index == 1) {
                                         return InformationPage();
                                       } else if (index == 2) {
